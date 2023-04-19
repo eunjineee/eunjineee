@@ -1,6 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Eunjineee&fontAlign=80&fontAlignY=40&color=gradient)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=EunjinYang&fontSize=90&animation=fadeIn&fontAlignY=38&desc=eunjineee%20developer%20story&descAlignY=51&descAlign=57.5)
 
 <!--
 **eunjineee/eunjineee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
