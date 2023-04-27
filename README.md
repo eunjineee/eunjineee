@@ -7,5 +7,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yej6642)](https://solved.ac/yej6642/)
 
-![hhh]([http://127.0.0.1:8000/readmecard/generate_badge])
+![hhh]([http://localhost:8000/readmecard/generate_badge])
 
