@@ -7,7 +7,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yej6642)](https://solved.ac/yej6642/)
 
-[![RepomonCard](https://repomon.kr/card/repo?repoId=5)](https://repomon.kr)
+[![RepomonCard](https://repomon.kr/card/repo)](https://repomon.kr)
 
 ## 💪Skills
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
