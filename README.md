@@ -7,9 +7,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yej6642)](https://solved.ac/yej6642/)
 
-[![RepomonCard](https://repomon.kr/card/user?userId=4)](https://repomon.kr)
-[![RepomonCard](https://repomon.kr/card/repo?repoId=14)](https://repomon.kr)
-[![RepomonCard](https://repomon.kr/card/repo_personal?repoId=14&userId=4)](https://repomon.kr)
+[![RepomonUserCard](https://repomon.kr/card/user?userId=4)](https://repomon.kr)
+[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=14)](https://repomon.kr)
+[![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=14&userId=4)](https://repomon.kr)
 
 ## 💪Skills
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
