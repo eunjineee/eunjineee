@@ -7,7 +7,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yej6642)](https://solved.ac/yej6642/)
 
-![test](https://repomon.kr/card/repo?repoId=7)
 
 [![RepomonUserCard](https://repomon.kr/card/user?userId=4)](https://repomon.kr/card/user?userId=4)
 [![RepomonRepoCard](https://repomon.kr/card/repo?repoId=7)](https://repomon.kr/card/repo?repoId=7)
