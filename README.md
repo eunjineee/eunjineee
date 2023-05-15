@@ -9,6 +9,7 @@
 
 
 [![RepomonUserCard](https://repomon.kr/card/user?userId=4)](https://repomon.kr)
+[![RepomonRepoCard](https://repomon.kr/card/repo?repoId=7)](https://repomon.kr)
 [![RepomonRepoCard](https://repomon.kr/card/repo?repoId=7)](https://repomon.kr/card/repo?repoId=7)
 [![RepomonRepoPersonalCard](https://repomon.kr/card/repo_personal?repoId=7&userId=4)](https://repomon.kr/card/repo_personal?repoId=7&userId=4)
 
