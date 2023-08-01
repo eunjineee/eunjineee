@@ -15,3 +15,5 @@
 # :mailbox_with_mail: Contacts
 
 [![mail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=mail&logoColor=white&link=mailto:yej6642@naver.com)](mailto:yej6642@naver.com)
+[![Tistory Badge](https://img.shields.io/badge/tistory-000000?style=flat-square&link=https://wo-ol.tistory.com/)](https://wo-ol.tistory.com/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-A493E7?style=flat-square&link=https://eunjineee.notion.site/bec7a729c0a84bce84980017ab50a432?pvs=4)](https://eunjineee.notion.site/bec7a729c0a84bce84980017ab50a432?pvs=4)
